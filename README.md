@@ -1,4 +1,5 @@
 <h3> Use of Social media has been increasing day by day among people. Along with that, hate speech among users especially in a platform like Twitter is also increasing. So it is a tough challenge for companies to monitor each and every tweet of users.</h3>
+<br>
 
 ![image](hate-speech.jpg) <br>
 * **In this project, I developed a machine learning model to identify the hate speech tweets automatically.<br>**
@@ -13,5 +14,6 @@
 
 * **For model building, I created a Pipeline Model to trein all the classification algorithms.The ML Algorithms that were used were *Logistic Regression*, *Support Vector Classifier*,*Random Forest*, and *MultiNomial Naive Bayes*.**
 * **All the algorithms performed relatively well, but it was Random Forest algorithm which gave the highest accuracy of 99.7%**.
+* Dataset: [Link](https://www.kaggle.com/vkrahul/twitter-hate-speech)
 
-<h3> THANK YOU. Feel Free to connect if you face any issues </h3>
+<h3> THANK YOU. Feel Free to connect if you face any issues.</h3>
