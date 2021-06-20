@@ -7,4 +7,5 @@
 
 
 
-* **After preprocessing the data, I used *WordCloud* to display all the common hate words in the tweets.**
+* **After preprocessing the data using *RegEx*, I used *WordCloud* to display all the common hate words in the tweets.**
+* 
