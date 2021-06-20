@@ -11,4 +11,7 @@
 
 ![image](wordcloud.png)
 
-* For model building, I created a Pipeline Model to trein all the classification algorithms.The ML Algorithms that were used were *Logistic Regression*, *Support Vector Classifier*,*Random Forest*, and *MultiNomial Naive Bayes*.
+* **For model building, I created a Pipeline Model to trein all the classification algorithms.The ML Algorithms that were used were *Logistic Regression*, *Support Vector Classifier*,*Random Forest*, and *MultiNomial Naive Bayes*.**
+* **All the algorithms performed relatively well, but it was Random Forest algorithm which gave the highest accuracy of 99.7%**.
+
+<h3> THANK YOU. Feel Free to connect if you face any issues </h3>
