@@ -7,5 +7,8 @@
 
 
 
-* **After preprocessing the data using *RegEx*, I used *WordCloud* to display all the common hate words in the tweets.**
-* 
+* **After preprocessing the data using *RegEx*, I used *WordCloud* to display all the common hate words in the tweets qs shown below**
+
+![image](wordcloud.png)
+
+* For model building, I created a Pipeline Model to trein all the classification algorithms.The ML Algorithms that were used were *Logistic Regression*, *Support Vector Classifier*,*Random Forest*, and *MultiNomial Naive Bayes*.
